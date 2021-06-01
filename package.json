@@ -1,0 +1,24 @@
+{
+  "name": "javascript-asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de Asincronimso con JavaScript en Platzi",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Herdro/JavaScript-Asincronismo.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "pedro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Herdro/JavaScript-Asincronismo/issues"
+  },
+  "homepage": "https://github.com/Herdro/JavaScript-Asincronismo#readme"
+}
